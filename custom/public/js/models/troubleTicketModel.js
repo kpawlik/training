@@ -1,6 +1,6 @@
 import myw from 'myWorld-client';
 
-import {CompleteFieldViewer} from "./../controls/completeFieldViewer";
+import {CompleteFieldViewer} from "../controls/completeFieldViewer";
 
 class troubleTicketModel extends myw.MyWorldFeature {
     static {
