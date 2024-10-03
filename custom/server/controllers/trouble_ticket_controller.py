@@ -2,7 +2,6 @@ from pyramid.view import view_config
 from myworldapp.core.server.controllers.base.myw_controller import MywController
 import myworldapp.core.server.controllers.base.myw_globals as myw_globals
 from datetime import datetime
-import jwt
 import json
 import traceback
 
