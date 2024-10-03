@@ -1,8 +1,8 @@
 import myw from 'myWorld-client';
 import 'main.standard';                       
 import './models/troubleTicketModel';
-import {SelectPlugin} from './plugins/selectPlugin';
-import {DrawPlugin} from './plugins/drawPlugin';
+import {SelectPlugin} from './plugins/SelectPlugin';
+import {DrawPlugin} from './plugins/DrawPlugin';
 // import "./controls/completeFieldViewer";
 
 
